@@ -54,7 +54,7 @@ public class ScheduleController {
 }
 
 
-ERD링크 입니다
-https://www.erdcloud.com/d/thjrXRB89t6bwjfew
+
+![스크린샷(39)](https://github.com/user-attachments/assets/09b7aff4-700c-4d05-8186-c81bfcf35731)
 
 
