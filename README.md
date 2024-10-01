@@ -56,6 +56,6 @@ public class ScheduleController {
 
 
 
-![Uploading 스크린샷(39).png…]()
+![스크린샷(39)](https://github.com/user-attachments/assets/d9f63683-16a3-4845-9efa-a59b1bf19a8c)
 
 
