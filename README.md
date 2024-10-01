@@ -52,9 +52,10 @@ public class ScheduleController {
         return "일정 수정하기: " + scheduleId;
     }
 }
+@@
 
 
 
-![스크린샷(39)](https://github.com/user-attachments/assets/09b7aff4-700c-4d05-8186-c81bfcf35731)
+![스크린샷(39)](https://github.com/user-attachments/assets/5d5cfc78-ef6b-4c90-bbca-257b15cf7e9e)
 
 
